@@ -8,6 +8,7 @@
     <title>Skydash Admin</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="{{ url('admin/vendors/feather/feather.css')}}">
+    <link rel="stylesheet" href="{{ url('admin/css/maps/vertical-layout-light/style.css.map')}}">
     <link rel="stylesheet" href="{{ url('admin/vendors/ti-icons/css/themify-icons.css')}}">
     <link rel="stylesheet" href="{{ url('admin/vendors/css/vendor.bundle.base.css')}}">
     <link rel="stylesheet" href="{{url('admin/scss/vertical-layout-light/navbar.scss')}}">
@@ -46,7 +47,7 @@
 <!-- container-scroller -->
 
 <!-- plugins:js -->
-<script src="{{ url('vendors/js/vendor.bundle.base.js')}}"></script>
+<script src="{{ url('admin/vendors/js/vendor.bundle.base.js')}}"></script>
 <!-- endinject -->
 <!-- Plugin js for this page -->
 <script src="{{ url('admin/vendors/chart.js/Chart.min.js')}}"></script>
